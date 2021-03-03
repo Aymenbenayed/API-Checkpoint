@@ -1,0 +1,10 @@
+.users-list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: none;
+}
